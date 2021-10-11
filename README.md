@@ -14,7 +14,7 @@ git clone https://github.com/eugenebelieve/vod-market.git
 
 ### Add Env Variables
 
-Create or modify the .env file in then root and add the following
+Create or modify the .env file in then root and add the following (modify YOUR_MONGODB_URI_HERE)
 
 ```
 NODE_ENV = 'development'
@@ -34,14 +34,12 @@ npm install
 
 ### Import Dataset
 
-You have to use the following commands to generate sample users and vod products as well as destroy all data, directly in your Database
+You have to use the following commands to generate sample users and VOD catalog as well as destroy all data, directly in your Database
 
 ```
-# To Import Retail & User Data, run command from root directory
+# To Import VODs & User Data, run command from root directory
 npm run data:vod
 
-# Destroy data - if needed
-npm run data:destroy
 ```
 
 ### Run
