@@ -1,4 +1,4 @@
-<img src="application/public/images/vod.png" alt="dashboard" height="400">
+<table><tr><td><img src="application/public/images/vod.png" alt="dashboard" height="400"></td></tr></table>
 
 # Usage
 
