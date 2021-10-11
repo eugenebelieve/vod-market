@@ -66,7 +66,9 @@ jane@example.com (Customer)
 
 ## More Previews (Product & Shopping Cart)
 
-<div>
-<img src="application/public/images/vod2.png" alt="dashboard" height="230">
-<img src="application/public/images/vod3.png" alt="dashboard" height="230">
-</div>
+<table>
+<tr>
+    <td><img src="application/public/images/vod2.png" alt="dashboard" height="230"></td>
+    <td><img src="application/public/images/vod3.png" alt="dashboard" height="230"></td>
+</tr>
+</table>
