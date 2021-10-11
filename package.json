@@ -10,6 +10,7 @@
     "client": "npm start --prefix application",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "data:general": "node microservices/seeder",
+    "data:vod": "node microservices/vod",
     "data:automotive": "node microservices/automotive",
     "data:retail": "node microservices/retail",
     "data:destroy": "node microservices/seeder -d",
