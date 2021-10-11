@@ -2,7 +2,7 @@
 
 # Usage
 
-## Retail Marketplace (MongoDB, NodeJS, ExpressJS, ReactJS & JWT)
+## VOD Marketplace (MongoDB, NodeJS, ExpressJS, ReactJS & JWT)
 
 ### Clone Repositorie
 
