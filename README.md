@@ -14,12 +14,12 @@ git clone https://github.com/eugenebelieve/vod-market.git
 
 ### Add Env Variables
 
-Create or modify the .env file in then root and add the following (modify YOUR_MONGODB_URI_HERE)
+Create or modify the .env file in then root and add the following (modify ATLAS_URI_HERE)
 
 ```
 NODE_ENV = 'development'
 PORT = '5000'
-MONGO_URI = "YOUR_MONGODB_URI_HERE"
+MONGO_URI = "ATLAS_URI_HERE"
 JWT_SECRET = 'random_secret_key'
 PAYPAL_CLIENT_ID = 'YOUR_MONGODB_PAYPAL_ID_HERE'
 ```
@@ -67,6 +67,6 @@ jane@example.com (Customer)
 ## More Previews (Product & Shopping Cart)
 
 <div>
-<img src="application/public/images/retail/product.png" alt="dashboard" height="230">
-<img src="application/public/images/retail/kart.png" alt="dashboard" height="230">
+<img src="application/public/images/vod2.png" alt="dashboard" height="230">
+<img src="application/public/images/vod3.png" alt="dashboard" height="230">
 </div>
