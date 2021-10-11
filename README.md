@@ -1,4 +1,4 @@
-<img src="application/public/images/retail/marketplace_retail.png" alt="dashboard" height="400">
+<img src="application/public/images/vod.png" alt="dashboard" height="400">
 
 # Usage
 
@@ -9,7 +9,7 @@
 Clone this Repositorie to your local machine
 
 ```
-git clone https://github.com/eugenebelieve/marketplace-retail.git
+git clone https://github.com/eugenebelieve/vod-market.git
 ```
 
 ### Add Env Variables
@@ -34,13 +34,13 @@ npm install
 
 ### Import Dataset
 
-You can use the following commands generate some sample users and products as well as destroy all data, directly in your Database
+You have to use the following commands to generate sample users and vod products as well as destroy all data, directly in your Database
 
 ```
 # To Import Retail & User Data, run command from root directory
-npm run data:retail
+npm run data:vod
 
-# Destroy data
+# Destroy data - if needed
 npm run data:destroy
 ```
 
