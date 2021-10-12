@@ -40,16 +40,18 @@ npm install
 
 You have to use the following commands to generate sample users and VOD catalog as well as destroy all data, directly in your Database
 
+To Import VODs & User Data, run command from root directory (vod-market)
+
 ```
-# To Import VODs & User Data, run command from root directory (vod-market)
 npm run data:vod
 
 ```
 
 ### Run
 
+Run frontend Application (:3000) & Microservices (:5000), from root directory (vod-market)
+
 ```
-# Run frontend Application (:3000) & Microservices (:5000), from root directory (vod-market)
 npm run dev
 ```
 
