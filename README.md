@@ -24,6 +24,8 @@ JWT_SECRET = 'random_secret_key'
 PAYPAL_CLIENT_ID = 'YOUR_PAYPAL_ID_HERE'
 ```
 
+You don't need to provide a paypal id to test the code
+
 ### Install Dependencies (frontend & backend)
 
 ```
