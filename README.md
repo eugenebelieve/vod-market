@@ -28,6 +28,8 @@ You don't need to provide a paypal id to test the code
 
 ### Install Dependencies (frontend & backend)
 
+You need to execute these commands from the root folder (vod-market)
+
 ```
 npm install
 cd application
@@ -39,7 +41,7 @@ npm install
 You have to use the following commands to generate sample users and VOD catalog as well as destroy all data, directly in your Database
 
 ```
-# To Import VODs & User Data, run command from root directory
+# To Import VODs & User Data, run command from root directory (vod-market)
 npm run data:vod
 
 ```
@@ -47,7 +49,7 @@ npm run data:vod
 ### Run
 
 ```
-# Run frontend Application (:3000) & Microservices (:5000), from root directory 
+# Run frontend Application (:3000) & Microservices (:5000), from root directory (vod-market)
 npm run dev
 ```
 
