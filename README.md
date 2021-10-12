@@ -44,7 +44,6 @@ To Import VODs & User Data, run command from root directory (vod-market)
 
 ```
 npm run data:vod
-
 ```
 
 ### Run
